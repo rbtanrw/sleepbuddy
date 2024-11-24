@@ -1,0 +1,2 @@
+An online website for remote hotel room reservation. The front-end was built using HTML, CSS, JS, while the back-end was built using ASP.NET Core. For the database, it uses SQL Server.
+Unfortunately, SleepBuddy is not fully developed, since its front-end and its back-end are still not connected.
